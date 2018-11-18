@@ -1,0 +1,10 @@
+{
+	"bank" :
+	[
+	  { "bankId": 1, "bankName": "SBI" },
+	  { "bankId": 2, "bankName": "DBS" },
+	  { "bankId": 3, "bankName": "ICICI" },
+	  { "bankId": 4, "bankName": "PayTM" },
+	  { "bankId": 5, "bankName": "Mobikwik" }
+	]
+}

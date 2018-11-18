@@ -1,0 +1,174 @@
+{
+	"product": [{
+			"productId": "1",
+			"productName": "Mouse - Logitech MX Master 2S (Black)",
+			"productCategory": "Electronics",
+			"productSpecification": "4000-DPi precision sensor",
+			"productPrice": "7995",
+			"productImageURL": "/challenge/2/img/sample_product.png",
+			"productSearchTextURL": ""
+		},
+		{
+			"productId": "2",
+			"productName": "Hard Drive - Samsung 860 EVO MZ-76E250BW 250GB SATA 6.0",
+			"productCategory": "Electronics",
+			"productSpecification": "Samsung Solid State Drive",
+			"productPrice": "6399",
+			"productImageURL": "/challenge/2/img/sample_product.png",
+			"productSearchTextURL": ""
+		},
+		{
+			"productId": "3",
+			"productName": "Mouse - Logitech MK215 Wireless Keyboard & Mouse Set",
+			"productCategory": "Electronics",
+			"productSpecification": "4000-DPi precision sensor",
+			"productPrice": "1645",
+			"productImageURL": "/challenge/2/img/sample_product.png",
+			"productSearchTextURL": ""
+		},
+		{
+			"productId": "4",
+			"productName": "Mouse - Dell Km117 Wireless Keyboard & Mouse Set",
+			"productCategory": "Electronics",
+			"productSpecification": "3000-DPi precision sensor",
+			"productPrice": "1399",
+			"productImageURL": "/challenge/2/img/sample_product.png",
+			"productSearchTextURL": ""
+		},
+		{
+			"productId": "5",
+			"productName": "Mouse - Logitech MK220 Wireless Keyboard and Mouse",
+			"productCategory": "Electronics",
+			"productSpecification": "4000-DPi precision sensor",
+			"productPrice": "1795",
+			"productImageURL": "/challenge/2/img/sample_product.png",
+			"productSearchTextURL": ""
+		},
+		{
+			"productId": "6",
+			"productName": "JioFi 4G Hotspot JMR815 150 Mbps Jio 4G Portable WiFi Data Device (Black)",
+			"productCategory": "Electronics",
+			"productSpecification": "Download speed up to 150 Mbps",
+			"productPrice": "2499",
+			"productImageURL": "/challenge/2/img/sample_product.png",
+			"productSearchTextURL": ""
+		},
+		{
+			"productId": "7",
+			"productName": "Quick Heal Total Security 2 Pc 3 Years",
+			"productCategory": "Electronics",
+			"productSpecification": "Total Security for 2 PCs valid for 3 Years",
+			"productPrice": "4299",
+			"productImageURL": "/challenge/2/img/sample_product.png",
+			"productSearchTextURL": ""
+		},
+		{
+			"productId": "8",
+			"productName": "English & Logical Reasoning for BITSAT with 10 Mock Tests",
+			"productCategory": "Books",
+			"productSpecification": "Key Concepts and sufficient practice to crack BITSAT (5 in Book and 5 Online Tests)",
+			"productPrice": "340",
+			"productImageURL": "/challenge/2/img/sample_product.png",
+			"productSearchTextURL": ""
+		},
+		{
+			"productId": "9",
+			"productName": "Wiley Solomons;Fryhle And Synder Organic Chemistry for JEE (Main And Advanced)",
+			"productCategory": "Books",
+			"productSpecification": "3rd Edition - Author Name M S CHOUHAN",
+			"productPrice": "859",
+			"productImageURL": "/challenge/2/img/sample_product.png",
+			"productSearchTextURL": ""
+		},
+		{
+			"productId": "10",
+			"productName": "101 Speed Test For Gate Computer Science & Information Technology",
+			"productCategory": "Books",
+			"productSpecification": " Aims At Improving Your Speed And Strike Rate So As To Improve Your Score",
+			"productPrice": "300",
+			"productImageURL": "/challenge/2/img/sample_product.png",
+			"productSearchTextURL": ""
+		},
+		{
+			"productId": "11",
+			"productName": "A Handbook on Electrical Engineering",
+			"productCategory": "Books",
+			"productSpecification": "Publication For ESE GATE PSUs - Competitive Exam Book",
+			"productPrice": "350",
+			"productImageURL": "/challenge/2/img/sample_product.png",
+			"productSearchTextURL": ""
+		},
+		{
+			"productId": "12",
+			"productName": "LimeStone Casual Analog Watch for Men/Boys",
+			"productCategory": "Lifestyle",
+			"productSpecification": "Watch Color - Silver & Brand - LimeStone for Men",
+			"productPrice": "1655",
+			"productImageURL": "/challenge/2/img/sample_product.png",
+			"productSearchTextURL": ""
+		},
+		{
+			"productId": "13",
+			"productName": "Watch -CStyle 10012",
+			"productCategory": "Lifestyle",
+			"productSpecification": "Watch Color - Black & Brand - CSTYLE for Men",
+			"productPrice": "1499",
+			"productImageURL": "/challenge/2/img/sample_product.png",
+			"productSearchTextURL": ""
+		},
+		{
+			"productId": "14",
+			"productName": "LimeStone Wood Coat Avatar Day and Date Analog Watch",
+			"productCategory": "Lifestyle",
+			"productSpecification": "Watch Color - Brown & Brand - LimeStone for Women",
+			"productPrice": "2499",
+			"productImageURL": "/challenge/2/img/sample_product.png",
+			"productSearchTextURL": ""
+		},
+		{
+			"productId": "15",
+			"productName": "Swisstyle Blue Day and Date Watch-SS-MV006",
+			"productCategory": "Lifestyle",
+			"productSpecification": "Watch Color - Blue & Brand - Swisstyle for Men",
+			"productPrice": "999",
+			"productImageURL": "/challenge/2/img/sample_product.png",
+			"productSearchTextURL": ""
+		},
+		{
+			"productId": "16",
+			"productName": "Ab Exerciser Single Spring Tummy Trimmer",
+			"productCategory": "Fitness",
+			"productSpecification": "Burn off excess fat and calories.  Tones muscles in the upper and lower abdominal region",
+			"productPrice": "1200",
+			"productImageURL": "/challenge/2/img/sample_product.png",
+			"productSearchTextURL": ""
+		},
+		{
+			"productId": "17",
+			"productName": "Premium Spider Protein 3 in 1 Sipper/Shaker Bottle 500 ml (Assorted)",
+			"productCategory": "Fitness",
+			"productSpecification": "Assemble finished holds 600 ml Available in White,Black,Red,Blue Color",
+			"productPrice": "799",
+			"productImageURL": "/challenge/2/img/sample_product.png",
+			"productSearchTextURL": ""
+		},
+		{
+			"productId": "18",
+			"productName": "Teclast H30 Sleeping Track Heart Rate Monitor Smart Wristband",
+			"productCategory": "Fitness",
+			"productSpecification": "AGC intelligent heart rate monitor, which can make accurate calculate of heart beat and adjust the power",
+			"productPrice": "5024",
+			"productImageURL": "/challenge/2/img/sample_product.png",
+			"productSearchTextURL": ""
+		},
+		{
+			"productId": "19",
+			"productName": "Outdoor Sport Cycling Running Windproof Breathable Activated Carbon Half Face Mask # International Bazaar",
+			"productCategory": "Fitness",
+			"productSpecification": "Premium quality and durable product with Essential utility and partner of your favorite sports!",
+			"productPrice": "1535",
+			"productImageURL": "/challenge/2/img/sample_product.png",
+			"productSearchTextURL": ""
+		}
+	]
+}

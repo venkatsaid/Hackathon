@@ -1,0 +1,77 @@
+{
+	"offer" : 
+	[
+		{
+			"productId" : "1",
+			"bankId" : "1",
+			"productDiscountedPrice" : "7000"
+		},
+		{
+			"productId" : "1",
+			"bankId" : "2",
+			"productDiscountedPrice" : "7100"
+		},
+		{
+			"productId" : "1",
+			"bankId" : "3",
+			"productDiscountedPrice" : "6999"
+		},
+		{
+			"productId" : "2",
+			"bankId" : "1",
+			"productDiscountedPrice" : "5499"
+		},
+		{
+			"productId" : "2",
+			"bankId" : "4",
+			"productDiscountedPrice" : "6249"
+		},
+		{
+			"productId" : "2",
+			"bankId" : "5",
+			"productDiscountedPrice" : "5999"
+		},	
+		{
+			"productId" : "3",
+			"bankId" : "3",
+			"productDiscountedPrice" : "1250"
+		},
+		{
+			"productId" : "3",
+			"bankId" : "5",
+			"productDiscountedPrice" : "1250"
+		},	
+		{
+			"productId" : "4",
+			"bankId" : "1",
+			"productDiscountedPrice" : "1199"
+		},	
+		{
+			"productId" : "5",
+			"bankId" : "1",
+			"productDiscountedPrice" : "1750"
+		},
+		{
+			"productId" : "5",
+			"bankId" : "2",
+			"productDiscountedPrice" : "1649"
+		},	
+		{
+			"productId" : "5",
+			"bankId" : "3",
+			"productDiscountedPrice" : "1650"
+		},
+		{
+			"productId" : "5",
+			"bankId" : "4",
+			"productDiscountedPrice" : "1600"
+		},	
+		{
+			"productId" : "5",
+			"bankId" : "5",
+			"productDiscountedPrice" : "1700"
+		}	
+	]
+}
+
+
